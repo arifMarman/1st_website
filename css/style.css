@@ -1,0 +1,52 @@
+/* h1{
+			color: #0a0202f5;
+			background-color: blueviolet;
+			align: center;
+		}
+		p{
+			color: rgb(255, 0, 128);
+			font-size: 26px; 
+			font-weight:bolder;
+			 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+		}
+		#unique{
+			color: brown;
+			font-size: larger;
+			font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+		} 
+		 .friend{
+			background-color: chartreuse;
+		}
+		.gf{
+			background-color: darkblue;
+			width: 130px;
+		}
+		.division{
+			font-family: cursive;
+			font-size: x-large;
+			font-stretch: expanded;
+			color: darkred;
+			text-align: center;
+			border: 1px;
+			border-style: inset;
+		} */
+		/* img{
+			width: 50%;
+			height: 50%;
+		} */
+		.division{
+			border: 10px dotted greenyellow;
+			width: 500px;
+			border-radius: 30px;
+			margin: 10px 20px 30px 10px;
+			padding: 20px;
+			width: 30%;
+			float: left;
+		}
+		h3{
+			text-align: center;
+			
+		}
+		p{
+			text-align: justify;
+		}
